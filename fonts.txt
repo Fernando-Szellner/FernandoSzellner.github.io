@@ -1,0 +1,18 @@
+<link href="https://fonts.googleapis.com/css?family=Barlow+Condensed|Mansalva|Open+Sans&display=swap" rel="stylesheet"> 
+
+
+
+    Specify in CSS
+
+Use the following CSS rules to specify these families:
+
+    font-family: 'Mansalva', cursive;
+
+    font-family: 'Open Sans', sans-serif;
+
+    font-family: 'Barlow Condensed', sans-serif;
+
+
+
+
+
